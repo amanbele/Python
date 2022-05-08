@@ -1,0 +1,9 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file alias="backward.png">resources/backward.png</file>
+    <file alias="forward.png">resources/forward.png</file>
+    <file alias="cancel.png">resources/cancel.png</file>
+    <file alias="home.png">resources/home.png</file>
+    <file alias="refresh.png">resources/refresh.png</file>
+</qresource>
+</RCC>

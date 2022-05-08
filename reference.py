@@ -1,0 +1,4 @@
+
+
+ratings = rateinput
+print(ratings)
