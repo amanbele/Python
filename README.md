@@ -1,4 +1,4 @@
-![Python: 95.7%](https://img.shields.io/badge/Python-61.8%25-%233572a5) ![Python: 35.4%](https://img.shields.io/badge/Jupyter_Notebook-35.4%25-%233572a5) ![TCL: 3.9%](https://img.shields.io/badge/TCL-2.5%25-%23e4cc98) ![Batchfile: 0.4%](https://img.shields.io/badge/Batchfile-0.3%25-%23c1f12e)
+![Python: 95.7%](https://img.shields.io/badge/Python-61.8%25-%233572a5) ![Python: 35.4%](https://img.shields.io/badge/Jupyter_Notebook-35.4%25-%23da5b0b) ![TCL: 3.9%](https://img.shields.io/badge/TCL-2.5%25-%23e4cc98) ![Batchfile: 0.4%](https://img.shields.io/badge/Batchfile-0.3%25-%23c1f12e)
 
 ## Welcome to my Github Repository! 
 ### Here I post my project files I make while practicing [Python](https://www.python.org)
