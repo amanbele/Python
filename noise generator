@@ -1,0 +1,6 @@
+# import modules
+import random
+
+rand_inc = random.randint(0, 1)
+
+num_limit = int(input('Input your limit 
